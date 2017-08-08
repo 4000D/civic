@@ -1,5 +1,5 @@
 ```bash
-├── ERC20.sol # Civic Token
+├── CentrallyIssuedToken.sol # Civic Token
 ├── Haltable.sol
 ├── MultiSigWallet.sol  # Civic MultiSigWallet
 ├── MultiSigWalletWithDailyLimit.sol # Civic MultiSigWallet
